@@ -1,0 +1,42 @@
+[
+  {
+    "folder": "cane",
+    "label": "Dog"
+  },
+  {
+    "folder": "cavallo",
+    "label": "Horse"
+  },
+  {
+    "folder": "elefante",
+    "label": "Elephant"
+  },
+  {
+    "folder": "farfalla",
+    "label": "Butterfly"
+  },
+  {
+    "folder": "gallina",
+    "label": "Chicken"
+  },
+  {
+    "folder": "gatto",
+    "label": "Cat"
+  },
+  {
+    "folder": "mucca",
+    "label": "Cow"
+  },
+  {
+    "folder": "pecora",
+    "label": "Sheep"
+  },
+  {
+    "folder": "ragno",
+    "label": "Spider"
+  },
+  {
+    "folder": "scoiattolo",
+    "label": "Squirrel"
+  }
+]
